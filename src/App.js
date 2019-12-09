@@ -16,7 +16,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          samemaru 初めてのReact講習だよ！
+          samemaru 
         </p>
         <a href="https://twitter.com/samemaru_saxo" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'twitter']} /></a>
       </header>
