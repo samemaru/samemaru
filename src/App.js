@@ -14,12 +14,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          samemaru 
-        </p>
+        <a>samemaru</a>
         <a href="https://twitter.com/samemaru_saxo" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'twitter']} /></a>
       </header>
+      <body>
+        <img src={logo} className="App-logo" alt="logo" />  
+      </body>
     </div>
   );
 }
