@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a>samemaru</a>
+        <a href="">samemaru</a>
         <a href="https://twitter.com/samemaru_saxo" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'twitter']} /></a>
       </header>
       <body>
