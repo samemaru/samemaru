@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/samemaru/static/css/main.11cc53f4.chunk.css",
+    "main.js": "/samemaru/static/js/main.6b4bfd07.chunk.js",
+    "main.js.map": "/samemaru/static/js/main.6b4bfd07.chunk.js.map",
+    "runtime-main.js": "/samemaru/static/js/runtime-main.3953db29.js",
+    "runtime-main.js.map": "/samemaru/static/js/runtime-main.3953db29.js.map",
+    "static/js/2.6c75f0f8.chunk.js": "/samemaru/static/js/2.6c75f0f8.chunk.js",
+    "static/js/2.6c75f0f8.chunk.js.map": "/samemaru/static/js/2.6c75f0f8.chunk.js.map",
+    "index.html": "/samemaru/index.html",
+    "precache-manifest.4c2ba415f22ad03a3ff0e7fb3f9e3191.js": "/samemaru/precache-manifest.4c2ba415f22ad03a3ff0e7fb3f9e3191.js",
+    "service-worker.js": "/samemaru/service-worker.js",
+    "static/css/main.11cc53f4.chunk.css.map": "/samemaru/static/css/main.11cc53f4.chunk.css.map",
+    "static/media/logo.png": "/samemaru/static/media/logo.4adf22f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3953db29.js",
+    "static/js/2.6c75f0f8.chunk.js",
+    "static/css/main.11cc53f4.chunk.css",
+    "static/js/main.6b4bfd07.chunk.js"
+  ]
+}
