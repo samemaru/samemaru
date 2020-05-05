@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <header className="header">
-        <h1 className="App_logo"><a href="index.html">samemaru</a></h1>
+        <h1 className="App_logo"><a href="index.html">samemaru-test</a></h1>
         <nav className="global-nav">
           <li className="nav_item" ><a href="#">WORK</a></li>
           <li className="nav_item" ><a href="#">ABOUT</a></li>
