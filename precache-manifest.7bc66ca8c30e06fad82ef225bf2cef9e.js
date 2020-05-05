@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0a2a2936f512cb78baada5f8e1570b5",
+    "revision": "83608aa9bf1cfd2bea7fd4ee4c686635",
     "url": "/samemaru/index.html"
   },
   {
-    "revision": "c2b9de60e8e8158288e1",
+    "revision": "01892740bf13b1934a70",
     "url": "/samemaru/static/css/main.11cc53f4.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samemaru/static/js/2.6c75f0f8.chunk.js"
   },
   {
-    "revision": "c2b9de60e8e8158288e1",
-    "url": "/samemaru/static/js/main.6b4bfd07.chunk.js"
+    "revision": "01892740bf13b1934a70",
+    "url": "/samemaru/static/js/main.aa5dd030.chunk.js"
   },
   {
     "revision": "37c2b98a30a304dfbf3b",
